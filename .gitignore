@@ -135,6 +135,5 @@ dmypy.json
 .DS_Store
 .idea/
 
-# Delta
-notebooks/delta_lake/*
-!notebooks/delta_lake/.gitkeep
+# Spark
+notebooks/spark-warehouse
