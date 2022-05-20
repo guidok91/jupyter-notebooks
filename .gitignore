@@ -136,4 +136,4 @@ dmypy.json
 .idea/
 
 # Spark
-notebooks/spark-warehouse
+spark-warehouse
